@@ -1,4 +1,4 @@
-# SQL-PROJECT TASK 1
+# SQL TASK 1
 #### Create a Database named “Students Record”
     -Create the following tables in the database create
     -Students Info  (Student ID, Gender, Name, Age, Subject)
@@ -17,7 +17,7 @@
     -Drop the “Age” column from the ‘Students Info’ table 
 #### <img width="308" alt="my SQL task4" src="https://github.com/ask4luv/SQL-PROJECT-/assets/138107435/db79f831-577d-42e8-aa15-8937b6257f3b">
    
-# SQL-PROJECT TASK 2
+# SQL TASK 2
  -Select the employee table and show the data where city is Mumbai and Delhi.
  
  #### <img width="500" alt="my SQL task7" src="https://github.com/ask4luv/SQL-PROJECT-/assets/138107435/f865467c-e433-4673-98e9-14fbcc7ccc58">
@@ -31,7 +31,7 @@
 Modify email column of the employee table to contain just email without ‘@gmail.com’
 #### <img width="434" alt="my SQL task10" src="https://github.com/ask4luv/SQL-PROJECT-/assets/138107435/7a0a38c1-8cbd-4742-a812-4d84263ec744">
 
-# SQL-PROJECT TASK 2
+# SQL TASK 2
    -What is the total number of employees in our employee table?
    
 #### <img width="298" alt="my SQL task11" src="https://github.com/ask4luv/SQL-PROJECT-/assets/138107435/7504377e-e8d1-4fa7-bb02-79e044bde65d">
